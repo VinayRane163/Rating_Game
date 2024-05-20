@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>https://softloomittraining.com/wp-content/uploads/2023/04/aspnet-benefits.png</ImageUrl>
+		<AlternateText>github.com/VinayRane163</AlternateText>
+		<NavigateUrl>https://github.com/VinayRane163?tab=repositories</NavigateUrl>
+	</Ad>
+	<Ad>
+		<ImageUrl>https://kinsta.com/wp-content/uploads/2023/04/react-must-be-in-scope-when-using-jsx.jpg</ImageUrl>
+		<AlternateText>React</AlternateText>
+		<NavigateUrl>https://kinsta.com/wp-content/uploads/2023/04/react-must-be-in-scope-when-using-jsx.jpg</NavigateUrl>
+	</Ad>
+</Advertisements>
